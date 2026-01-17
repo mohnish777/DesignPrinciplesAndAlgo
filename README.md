@@ -299,8 +299,8 @@ This repository is built using knowledge from:
 I'm actively learning and improving my skills. Feel free to:
 - ⭐ Star this repo if you find it helpful
 - 🐛 Open issues for suggestions
-- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Reach out: your.email@example.com
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohnish-chittoory/)
+- 📧 Reach out: cmohnishkumar1205@gmail.com
 
 ---
 
